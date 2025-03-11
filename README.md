@@ -1,4 +1,4 @@
- # VIRTUAL MACHINE CREATION IN LINUX
+[ # VIRTUAL MACHINE CREATION IN LINUX
 
 ## AIM
 
@@ -116,7 +116,7 @@ chmod +x myscript.sh
 ## OUTPUT
 
 #### REG NUMBER: 21222411004
-#### NAME: W Allen Johnston Ozaro
+#### NAME: W Allen Johnston Ozario
 
 Configuration of Kali Linux on Oracle Virtual Box :
 
@@ -133,3 +133,4 @@ Thus, this experiment helped in understanding the fundamentals of Linux commands
   
 
 
+](https://github.com/Allen022007/Virtual-machine-Creation-in-Linux/tree/main)
